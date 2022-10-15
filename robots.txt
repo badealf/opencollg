@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:http://uq.uh.edu/sitemap.xml
